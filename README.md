@@ -49,9 +49,9 @@ sudo dnf install <package-name>
 
 | Package | Version | Download | Source |
 |---------|---------|----------|--------|
-| **equibop** | `**Version:**` | [equibop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](**Source:**) |
-| **vesktop** | `**Version:**` | [vesktop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](**Source:**) |
-| **lact** | `**Version:**` | [lact](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](**Source:**) |
+| **equibop** | `v3.1.0` | [equibop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Equicord/Equibop) |
+| **vesktop** | `v1.6.1` | [vesktop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Vencord/Vesktop) |
+| **lact** | `v0.8.2` | [lact](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/ilya-zlobintsev/LACT) |
 
 ---
 
@@ -90,32 +90,10 @@ sudo dnf install ./<package-name>-<version>.x86_64.rpm
 
 ---
 
-## 📄 License
-
-### WTFPL - Do What The Fuck You Want To Public License
-
-```
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-Version 2, December 2004
-
-Copyright (C) 2024 Reidho Satria <me@rei.my.id>
-
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
-
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-0. You just DO WHAT THE FUCK YOU WANT TO.
-```
-
----
-
 <div align="center">
 
 **Built with ❤️ | Automatically updated via GitHub Actions**
 
-*Last updated: 2025-11-08 06:21:41 UTC*
+*Last updated: 2025-11-08 06:28:38 UTC*
 
 </div>
