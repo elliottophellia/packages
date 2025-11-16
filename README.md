@@ -49,7 +49,7 @@ sudo dnf install <package-name>
 
 | Package | Version | Download | Source |
 |---------|---------|----------|--------|
-| **equibop** | `v3.1.0` | [equibop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Equicord/Equibop) |
+| **equibop** | `v3.1.2` | [equibop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Equicord/Equibop) |
 | **vesktop** | `v1.6.1` | [vesktop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Vencord/Vesktop) |
 | **lact** | `v0.8.2` | [lact](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/ilya-zlobintsev/LACT) |
 
@@ -94,6 +94,6 @@ sudo dnf install ./<package-name>-<version>.x86_64.rpm
 
 **Built with ❤️ | Automatically updated via GitHub Actions**
 
-*Last updated: 2025-11-13 17:56:47 UTC*
+*Last updated: 2025-11-16 01:42:24 UTC*
 
 </div>
