@@ -49,7 +49,7 @@ sudo dnf install <package-name>
 
 | Package | Version | Download | Source |
 |---------|---------|----------|--------|
-| **equibop** | `v3.1.9` | [equibop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Equicord/Equibop) |
+| **equibop** | `v3.2.0` | [equibop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Equicord/Equibop) |
 | **vesktop** | `v1.6.5` | [vesktop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Vencord/Vesktop) |
 | **legcord** | `v1.2.4` | [legcord](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Legcord/Legcord) |
 | **github-desktop** | `release-3.4.13-linux1` | [github-desktop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/shiftkey/desktop) |
@@ -95,6 +95,6 @@ sudo dnf install ./<package-name>-<version>.x86_64.rpm
 
 **Built with ❤️ | Automatically updated via GitHub Actions**
 
-*Last updated: 2026-04-16 02:14:31 UTC*
+*Last updated: 2026-04-23 02:14:46 UTC*
 
 </div>
