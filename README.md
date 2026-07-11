@@ -50,7 +50,7 @@ sudo dnf install <package-name>
 | Package | Version | Download | Source |
 |---------|---------|----------|--------|
 | **equibop** | `v3.2.1` | [equibop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Equicord/Equibop) |
-| **cockpit-tools** | `v1.1.1` | [cockpit-tools](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/jlcodes99/cockpit-tools) |
+| **cockpit-tools** | `v1.1.5` | [cockpit-tools](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/jlcodes99/cockpit-tools) |
 | **liquidlauncher** | `v0.5.0` | [liquidlauncher](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/CCBlueX/LiquidLauncher) |
 | **koharu** | `0.61.2` | [koharu](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/mayocream/koharu) |
 
@@ -95,6 +95,6 @@ sudo dnf install ./<package-name>-<version>.x86_64.rpm
 
 **Built with ❤️ | Automatically updated via GitHub Actions**
 
-*Last updated: 2026-07-08 15:18:39 UTC*
+*Last updated: 2026-07-11 02:08:53 UTC*
 
 </div>
