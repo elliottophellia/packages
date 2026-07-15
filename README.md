@@ -50,7 +50,7 @@ sudo dnf install <package-name>
 | Package | Version | Download | Source |
 |---------|---------|----------|--------|
 | **equibop** | `v3.2.1` | [equibop](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/Equicord/Equibop) |
-| **cockpit-tools** | `v1.3.0` | [cockpit-tools](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/jlcodes99/cockpit-tools) |
+| **cockpit-tools** | `v1.3.2` | [cockpit-tools](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/jlcodes99/cockpit-tools) |
 | **liquidlauncher** | `v0.5.0` | [liquidlauncher](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/CCBlueX/LiquidLauncher) |
 | **koharu** | `0.61.2` | [koharu](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/mayocream/koharu) |
 | **clypra** | `v1.1.1` | [clypra](https://cdn.rei.my.id/mirror/fedora/x86_64/) | [GitHub](https://github.com/AIEraDev/Clypra) |
@@ -97,6 +97,6 @@ sudo dnf install ./<package-name>-<version>.x86_64.rpm
 
 **Built with ❤️ | Automatically updated via GitHub Actions**
 
-*Last updated: 2026-07-14 02:00:09 UTC*
+*Last updated: 2026-07-15 01:57:03 UTC*
 
 </div>
