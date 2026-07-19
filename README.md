@@ -1,5 +1,11 @@
 <div align="center">
 
+# DISCONTINUED !!!
+## Why?
+I move from Fedora to Parrot OS.
+## Then?
+I won't maintain this repo anymore, as its no longer necessary.
+
 ![Counter](https://api.sefinek.net/api/v2/moecounter/@packages?length=7&theme=default&pixelated=false)
 
 # 📦 Fedora RPM Repository
